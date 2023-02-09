@@ -1,0 +1,56 @@
+ID: 3
+Execution stack: [(int a;(int b;(a=2 + 3 * 5;(b=a + 1;print(b)))))]
+Symbol table: {}
+Output list: []
+File table:{}
+Heap memory:{}
+
+ID: 3
+Execution stack: [(int b;(a=2 + 3 * 5;(b=a + 1;print(b)))), int a]
+Symbol table: {}
+Output list: []
+File table:{}
+Heap memory:{}
+
+ID: 3
+Execution stack: [(int b;(a=2 + 3 * 5;(b=a + 1;print(b)))), int a]
+Symbol table: {}
+Output list: []
+File table:{}
+Heap memory:{}
+
+ID: 3
+Execution stack: [(int b;(a=2 + 3 * 5;(b=a + 1;print(b))))]
+Symbol table: {a=0}
+Output list: []
+File table:{}
+Heap memory:{}
+
+ID: 3
+Execution stack: [(int b;(a=2 + 3 * 5;(b=a + 1;print(b))))]
+Symbol table: {a=0}
+Output list: []
+File table:{}
+Heap memory:{}
+
+ID: 3
+Execution stack: [(a=2 + 3 * 5;(b=a + 1;print(b))), int b]
+Symbol table: {a=0}
+Output list: []
+File table:{}
+Heap memory:{}
+
+ID: 3
+Execution stack: [(a=2 + 3 * 5;(b=a + 1;print(b))), int b]
+Symbol table: {a=0}
+Output list: []
+File table:{}
+Heap memory:{}
+
+ID: 3
+Execution stack: [(a=2 + 3 * 5;(b=a + 1;print(b)))]
+Symbol table: {a=0, b=0}
+Output list: []
+File table:{}
+Heap memory:{}
+

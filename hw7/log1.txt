@@ -1,0 +1,70 @@
+ID: 1
+Execution stack: [(int v;(v=2;print(v)))]
+Symbol table: {}
+Output list: []
+File table:{}
+Heap memory:{}
+
+ID: 1
+Execution stack: [(v=2;print(v)), int v]
+Symbol table: {}
+Output list: []
+File table:{}
+Heap memory:{}
+
+ID: 1
+Execution stack: [(v=2;print(v)), int v]
+Symbol table: {}
+Output list: []
+File table:{}
+Heap memory:{}
+
+ID: 1
+Execution stack: [(v=2;print(v))]
+Symbol table: {v=0}
+Output list: []
+File table:{}
+Heap memory:{}
+
+ID: 1
+Execution stack: [(v=2;print(v))]
+Symbol table: {v=0}
+Output list: []
+File table:{}
+Heap memory:{}
+
+ID: 1
+Execution stack: [print(v), v=2]
+Symbol table: {v=0}
+Output list: []
+File table:{}
+Heap memory:{}
+
+ID: 1
+Execution stack: [print(v), v=2]
+Symbol table: {v=0}
+Output list: []
+File table:{}
+Heap memory:{}
+
+ID: 1
+Execution stack: [print(v)]
+Symbol table: {v=2}
+Output list: []
+File table:{}
+Heap memory:{}
+
+ID: 1
+Execution stack: [print(v)]
+Symbol table: {v=2}
+Output list: []
+File table:{}
+Heap memory:{}
+
+ID: 1
+Execution stack: []
+Symbol table: {v=2}
+Output list: [2]
+File table:{}
+Heap memory:{}
+
